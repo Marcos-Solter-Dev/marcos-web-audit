@@ -16,7 +16,7 @@
 - exportação SARIF 2.1.0;
 - dashboard HTML e saída de terminal com cobertura total;
 - catálogo `docs/CHECKS.md` gerado a partir do código;
-- suíte de testes expandida e revisão em múltiplos passes.
+- suíte de testes expandida e validações adicionais de qualidade.
 
 ## 2.0.0
 
