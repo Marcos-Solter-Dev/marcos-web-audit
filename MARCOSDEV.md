@@ -1,49 +1,44 @@
-# Marcos Dev — Uso e Copyright
+# Marcos Dev — Uso do projeto
 
 © 2026 Marcos Dev. Todos os direitos reservados.
 
-Este projeto pode ser **usado, estudado e executado** por outras pessoas para fins pessoais, educacionais, profissionais ou de avaliação, desde que sejam respeitadas as condições abaixo.
+O Marcos Web Audit está disponível para quem quiser baixar, usar e estudar. Você também pode adaptar o código para uso próprio, inclusive em trabalhos, estudos e ambientes profissionais.
 
-## Uso permitido
+## O que você pode fazer
 
-É permitido:
-
-- baixar ou clonar este repositório para uso próprio;
-- executar o projeto localmente ou em ambiente próprio;
+- baixar ou clonar o repositório para uso próprio;
+- executar a ferramenta no seu computador, servidor ou ambiente de trabalho;
 - estudar o código-fonte;
-- adaptar o projeto para uso interno ou privado;
-- usar a ferramenta em trabalhos, estudos ou análises próprias.
+- fazer alterações para uso pessoal ou interno;
+- usar a ferramenta em análises, estudos e projetos próprios.
 
-## Redistribuição não permitida
+## O que não é permitido
 
-Não é permitido, sem autorização prévia e por escrito da Marcos Dev:
+Sem autorização da Marcos Dev, você não pode:
 
-- republicar este projeto, integralmente ou em parte, em outro repositório público ou privado;
-- enviar uma cópia do projeto para outro GitHub, GitLab, Bitbucket ou serviço semelhante como se fosse um projeto próprio;
-- distribuir cópias, forks independentes, espelhos ou versões modificadas do projeto;
-- remover ou ocultar os créditos, avisos de copyright ou referências à Marcos Dev;
-- apresentar o projeto original, ou uma cópia substancial dele, como criação própria;
-- revender, sublicenciar ou redistribuir o projeto como produto, template, pacote ou código-fonte.
+- publicar uma cópia deste projeto em outro repositório;
+- colocar o projeto no seu GitHub, GitLab, Bitbucket ou serviço parecido;
+- distribuir cópias ou versões modificadas para outras pessoas;
+- criar espelhos do repositório para redistribuição;
+- remover os créditos ou avisos de copyright da Marcos Dev;
+- apresentar este projeto, ou uma cópia dele, como se fosse de sua autoria;
+- revender, sublicenciar ou redistribuir o código-fonte como produto, template ou pacote.
 
-Em resumo: **você pode usar o projeto, mas não pode redistribuí-lo ou republicá-lo como seu próprio projeto sem autorização da Marcos Dev.**
+## Modificações
 
-## Modificações para uso próprio
+Você pode modificar o projeto para uso próprio. Se quiser publicar ou distribuir uma versão modificada, precisa de autorização prévia da Marcos Dev.
 
-Modificações são permitidas para uso pessoal ou interno, desde que a versão modificada não seja redistribuída, republicada ou disponibilizada a terceiros sem autorização.
+## Marca Marcos Dev
 
-## Marca e identidade
+O nome **Marcos Dev**, logotipos, identidade visual e materiais da marca continuam sendo propriedade da Marcos Dev. Esses elementos não podem ser usados para sugerir parceria, autoria ou vínculo oficial sem autorização.
 
-O nome **Marcos Dev**, logotipos, identidade visual, elementos de branding, materiais gráficos e demais ativos de marca não podem ser usados de forma que sugira autoria, parceria, vínculo oficial ou endosso pela Marcos Dev sem autorização prévia.
+## Licença
 
-## Código-fonte e licença do repositório
-
-Este documento expressa as condições desejadas pela Marcos Dev para uso e redistribuição do projeto.
-
-**Importante:** se o arquivo [`LICENSE`](LICENSE) deste repositório conceder direitos mais amplos, como ocorre com a licença MIT, esses direitos podem entrar em conflito com as restrições acima. Para que a proibição de redistribuição seja juridicamente coerente com o restante do repositório, o arquivo `LICENSE` também deve adotar termos compatíveis com estas condições.
+As regras completas de uso deste projeto estão no arquivo [`LICENSE`](LICENSE). Este arquivo é apenas uma explicação mais direta das principais condições.
 
 ## Autorização
 
-Pedidos de redistribuição, publicação de forks, uso comercial, parceria ou licenciamento podem ser autorizados caso a caso pela Marcos Dev.
+Se você quiser redistribuir o projeto, publicar uma versão derivada ou pedir uma permissão diferente das regras acima, entre em contato com a Marcos Dev.
 
 ---
 
