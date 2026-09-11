@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+reports/
+coverage/
+*.log
+.env
+.env.*
+!.env.example
+.marcos-audit.json
+
+.review-output/
+*.tgz

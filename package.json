@@ -1,0 +1,58 @@
+{
+  "name": "marcos-web-audit",
+  "version": "3.0.0",
+  "description": "Auditor web passivo em Node.js para segurança, SEO, acessibilidade, performance, HTTP, PWA, privacidade e qualidade.",
+  "type": "module",
+  "bin": {
+    "web-audit": "./src/cli.js",
+    "marcos-audit": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "audit": "node src/cli.js",
+    "test": "node --test",
+    "check": "node --check src/cli.js && node --check src/auditor.js && node --test",
+    "demo": "node src/cli.js https://example.com --pages 2 --html reports/example.html --json reports/example.json",
+    "verify:rules": "node scripts/verify-rules.mjs",
+    "verify:docs": "node scripts/verify-docs.mjs",
+    "selftest": "node scripts/selftest-fixture.mjs",
+    "checks:doc": "node scripts/generate-checks-doc.mjs",
+    "verify": "bash scripts/verify-project.sh"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "security",
+    "seo",
+    "accessibility",
+    "performance",
+    "website-audit",
+    "cli",
+    "developer-tools",
+    "security-headers",
+    "tls",
+    "github-actions",
+    "pwa",
+    "privacy",
+    "http-audit",
+    "structured-data",
+    "web-quality"
+  ],
+  "author": "Marcos Dev",
+  "license": "MIT",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE",
+    "SECURITY.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcos-Solter-Dev/marcos-web-audit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Marcos-Solter-Dev/marcos-web-audit/issues"
+  },
+  "homepage": "https://github.com/Marcos-Solter-Dev/marcos-web-audit#readme"
+}

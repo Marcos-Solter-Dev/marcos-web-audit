@@ -1,0 +1,39 @@
+name: Audit a site
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: URL autorizada para auditoria passiva
+        required: true
+        type: string
+      fail_under:
+        description: Score mínimo
+        required: false
+        default: '80'
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22.x
+          cache: npm
+      - run: npm ci
+      - name: Run audit
+        env:
+          AUDIT_URL: ${{ inputs.url }}
+          FAIL_UNDER: ${{ inputs.fail_under }}
+        run: node src/cli.js "$AUDIT_URL" --pages 8 --max-links 60 --html reports/audit.html --json reports/audit.json --md reports/audit.md --sarif reports/audit.sarif --github-summary --fail-under "$FAIL_UNDER"
+      - name: Upload reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: marcos-web-audit-report
+          path: reports/

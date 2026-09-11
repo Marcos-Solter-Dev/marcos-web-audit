@@ -1,0 +1,14 @@
+{
+  "maxPages": 8,
+  "maxLinks": 60,
+  "timeoutMs": 10000,
+  "concurrency": 8,
+  "retries": 1,
+  "checkLinks": true,
+  "checkTls": true,
+  "checkDiscovery": true,
+  "checkPwa": true,
+  "externalLinks": false,
+  "failUnder": 80,
+  "failOn": "fail"
+}
