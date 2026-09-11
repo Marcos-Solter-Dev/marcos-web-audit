@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/Marcos-Solter-Dev/marcos-web-audit/actions/workflows/ci.yml/badge.svg)](https://github.com/Marcos-Solter-Dev/marcos-web-audit/actions/workflows/ci.yml)
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D20-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-016FF7.svg)](LICENSE)
+[![License: Marcos Dev](https://img.shields.io/badge/License-Marcos%20Dev%20Source--Available-016FF7.svg)](LICENSE)
 
 Auditor web passivo em Node.js para fazer um **check-up técnico de sites** pelo terminal, CI ou GitHub Actions.
 
@@ -256,4 +256,4 @@ Leia [`CONTRIBUTING.md`](CONTRIBUTING.md) antes de abrir PRs.
 
 ## Licença
 
-MIT — veja [`LICENSE`](LICENSE).
+**Marcos Dev Source-Available License v1.0.** O uso, estudo e modificação para uso próprio são permitidos, mas a redistribuição ou republicação do projeto não é permitida sem autorização da Marcos Dev. Veja [`LICENSE`](LICENSE) e [`MARCOSDEV.md`](MARCOSDEV.md).

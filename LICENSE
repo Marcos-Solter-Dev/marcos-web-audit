@@ -1,21 +1,62 @@
-MIT License
+Marcos Dev Source-Available License v1.0
 
-Copyright (c) 2026 Marcos Dev
+Copyright © 2026 Marcos Dev. Todos os direitos reservados, exceto pelos direitos expressamente concedidos nesta licença.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. CONCESSÃO DE USO
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+A Marcos Dev concede a qualquer pessoa que obtenha uma cópia deste software uma licença gratuita, não exclusiva e intransferível para:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- baixar e executar o software;
+- estudar e analisar o código-fonte;
+- criar cópias locais de backup;
+- modificar o software para uso próprio, pessoal, educacional, profissional ou interno;
+- utilizar o software na prestação de serviços, inclusive comerciais, desde que o próprio software, seu código-fonte ou uma cópia substancial dele não seja redistribuído, publicado, sublicenciado ou disponibilizado a terceiros.
+
+2. REDISTRIBUIÇÃO E REPUBLICAÇÃO PROIBIDAS
+
+Sem autorização prévia e por escrito da Marcos Dev, não é permitido:
+
+- distribuir, compartilhar, publicar ou republicar o software, no todo ou em parte substancial;
+- disponibilizar uma cópia do projeto em GitHub, GitLab, Bitbucket, serviços de hospedagem de código, sites, servidores, pacotes, arquivos para download ou meios equivalentes;
+- criar ou manter forks, mirrors ou repositórios derivados destinados à disponibilização do projeto a terceiros;
+- distribuir versões modificadas do software;
+- sublicenciar, revender ou comercializar o código-fonte ou cópias do projeto;
+- remover, ocultar ou alterar avisos de copyright, autoria ou atribuição da Marcos Dev;
+- apresentar o projeto, ou parte substancial dele, como obra própria.
+
+Esta restrição também se aplica a repositórios privados ou outros ambientes quando a cópia for disponibilizada a terceiros. Cópias estritamente locais, destinadas apenas ao próprio usuário, são permitidas.
+
+3. MODIFICAÇÕES
+
+Modificações para uso próprio são permitidas. A distribuição ou publicação de modificações, patches que reproduzam partes substanciais do código, versões derivadas ou builds redistribuíveis exige autorização prévia e por escrito da Marcos Dev.
+
+4. MARCA E IDENTIDADE
+
+Esta licença não concede qualquer direito sobre o nome Marcos Dev, logotipos, identidade visual, elementos de marca, materiais gráficos ou sinais distintivos. O uso desses elementos para sugerir autoria, vínculo, parceria ou endosso exige autorização prévia e por escrito.
+
+5. CÓPIAS E CONTRIBUIÇÕES
+
+A mera disponibilidade pública do código-fonte não transforma este projeto em software de código aberto nem concede direitos além dos expressamente previstos nesta licença.
+
+Contribuições enviadas ao repositório oficial podem estar sujeitas a termos adicionais definidos pela Marcos Dev no momento da contribuição.
+
+6. AUSÊNCIA DE GARANTIA
+
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIAS DE QUALQUER NATUREZA, EXPRESSAS OU IMPLÍCITAS, INCLUINDO, SEM LIMITAÇÃO, GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA E NÃO VIOLAÇÃO.
+
+NA MÁXIMA EXTENSÃO PERMITIDA PELA LEI APLICÁVEL, A MARCOS DEV NÃO SERÁ RESPONSÁVEL POR QUAISQUER DANOS, PERDAS, RECLAMAÇÕES OU OUTRAS RESPONSABILIDADES DECORRENTES DO USO, IMPOSSIBILIDADE DE USO OU OUTRA INTERAÇÃO COM O SOFTWARE.
+
+7. ENCERRAMENTO
+
+Qualquer violação destes termos encerra automaticamente os direitos concedidos por esta licença. Após o encerramento, o usuário deverá cessar qualquer uso não autorizado e remover cópias que tenham sido distribuídas ou disponibilizadas em violação desta licença.
+
+8. AUTORIZAÇÕES ESPECÍFICAS
+
+A Marcos Dev pode conceder permissões adicionais, inclusive para redistribuição, integração, sublicenciamento ou uso comercial do código-fonte, mediante autorização expressa e por escrito.
+
+9. FONTE OFICIAL
+
+O repositório oficial do projeto é:
+https://github.com/Marcos-Solter-Dev/marcos-web-audit
+
+Em resumo: você pode usar, estudar e modificar o projeto para seu próprio uso, inclusive em atividades profissionais, mas não pode republicar, redistribuir ou disponibilizar o projeto como seu ou em outro repositório sem autorização da Marcos Dev.

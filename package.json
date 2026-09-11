@@ -40,11 +40,12 @@
     "web-quality"
   ],
   "author": "Marcos Dev",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "files": [
     "src",
     "README.md",
     "LICENSE",
+    "MARCOSDEV.md",
     "SECURITY.md"
   ],
   "repository": {
